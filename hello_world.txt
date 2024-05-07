@@ -1,3 +1,4 @@
-# git_test
-my first GitHub repo!
-Hello Odin!
+I am learning git basics
+test 1
+test 2  
+test 3
